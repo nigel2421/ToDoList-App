@@ -191,10 +191,8 @@ npm run deploy
 
 👥 Henschel Nketchogue M. <a name="authors"></a>
 
-- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
-- LinkedIn: [henschelnketchoguem](https://www.linkedin.com/in/henschelnketchoguem/)
-- Twitter: [nketchogue](https://twitter.com/nketchogue)
-- Instagram: [mpatchiehenschel](https://www.instagram.com/mpatchiehenschel/)
+Nigel Andahua
+Muhammad Ibrahim 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
